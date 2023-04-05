@@ -1,0 +1,4 @@
+Tensorflow 2x
+Tensorflow object detection API
+Numpy
+opencv python
